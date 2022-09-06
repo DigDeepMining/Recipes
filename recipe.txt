@@ -1,0 +1,46 @@
+Below are the Ingredients you have chosen for the Random Recipe
+---------------------------------------------------------------
+Veg:
+Sweetcorn
+Sweetcorn
+Peas
+Cauliflower
+Cauliflower
+Peas
+Broccoli
+---------------------------------------------------------------
+Spices:
+Ginger
+Ginger
+Cinnamon
+Black Pepper
+Tumeric
+Ginger
+Coriander
+---------------------------------------------------------------
+Carbs:
+Pasta
+Wheat
+Bread
+Wheat
+Rice
+Rice
+Bread
+---------------------------------------------------------------
+Protien:
+Quorn
+Eggs
+Eggs
+Beef
+Beef
+Turkey
+Chicken
+---------------------------------------------------------------
+Sauces:
+Ketchup
+Mustard
+Hoisin
+Sweetchilli
+Mayo
+Cheese Sauce
+BBQ
